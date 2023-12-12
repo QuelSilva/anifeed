@@ -14,3 +14,13 @@ h1{
     font-weight: 700;
     font-size: 24px;
 }
+
+main{
+    height: 2000px;
+    width: 1000px;
+    margin: 15px auto 0 auto;
+    border: 1px solid #363636;
+    border-radius: 15px;
+    background-color: aquamarine;
+}
+
